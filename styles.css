@@ -1,0 +1,63 @@
+a {
+  color: #bbc6ce
+}
+
+.text-center {
+  text-align: center;
+}
+
+.center-container {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+}
+
+@media (min-width: 992px) {
+  .order-1 {
+    order: 1;
+  }
+}
+
+@media (min-width: 992px) {
+  .order-2 {
+    order: 2;
+  }
+}
+
+nav {
+  border-bottom: 1px solid #73828c33; 
+  padding-bottom: 0.3rem;
+  padding-top: 0.3rem;
+}
+
+.brilliant-color {
+  color: #edf0f3;
+}
+
+.card-margin {
+  margin: 1rem;
+}
+
+.logo-margin-botton {
+  margin-bottom: 1rem;
+}
+
+.h5-margin-botton {
+  margin-bottom: 0.5rem;
+}
+
+.news-padding {
+  padding: 1rem;
+}
+
+.hgroup-margin-top {
+  margin-top: 0.5rem;
+}
+
+.image-border-radious {
+  border-radius: 0.25rem;
+}
+
+.h2-margin-bottom {
+  margin-bottom: 1rem;
+}
